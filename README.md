@@ -4,11 +4,11 @@ Live: https://buhowski.github.io/post-list-modal
 
 ## Prerequisites
 
-Node.js = 20
+Node.js 20
 
 ## Quick Start
 
-```
+```bash
 # Install dependencies
 npm i
 
@@ -19,9 +19,14 @@ npm run dev
 ## Structure
 
 ```bash
+├── .github/workflows/      # CI/CD pipelines
 ├── app/                    # Next.js pages
-│   ├── page.tsx            # Main HomePage displaying the list of posts + Modal Post Details
+│   └── page.tsx            # HomePage: post list + modal with post details
+├── public/                 # Static assets
+├── .gitignore
+├── next.config.ts
 ├── package.json            # Project dependencies and scripts
-├── ...
-
+├── postcss.config.mjs
+├── tailwind.config.ts
+└── tsconfig.json
 ```
