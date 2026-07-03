@@ -1,12 +1,10 @@
-# Front-End Showcase
+# Blog List with Modal Details
 
-Post list page with details opening in a modal.
-
-Live: [https://next-js-modal-ui-showcase.vercel.app](https://next-js-modal-ui-showcase.vercel.app)
+Live: https://buhowski.github.io/nextjs-blog-modal
 
 ## Prerequisites
 
-- Node.js = 20
+Node.js = 20
 
 ## Quick Start
 
