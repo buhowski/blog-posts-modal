@@ -4,7 +4,7 @@ Live: https://buhowski.github.io/blog-posts-modal
 
 ## Prerequisites
 
-Node.js 20
+- Node.js 20
 
 ## Quick Start
 
